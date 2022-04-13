@@ -8,7 +8,7 @@ int main(){
 	int m=n;
 	while(m!=0){
 		int sodu = m%10;
-		if(sodu%2==0){
+		if(sodu%2==0){ 
 			f= false;
 			printf("%d khong phai toan chu so le", n);
 			break;

@@ -1,9 +1,9 @@
 #include <stdio.h>
-//Cho so nguyên duong n. Hãy tìm chu so dau tiên cua n
+//Cho so nguyen duong n. hay tim chu so dau tien cua n
 int main(){
 	int n, temp, max;
-	// //su dung vòng lap do..while de yêu cau nguoi dùng nhap vào so nguyên duong n
-  //neu n <= 0 thì yêu cau nhap lai
+	// //su dung vong lap do..while de yeu cau nguoi dung nhap vao so nguyen duong n
+  //neu n <= 0 thi yeu cau nhap lai
 	do{
 		printf("Nhap so n:");
 		scanf("%d", &n);
